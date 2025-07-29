@@ -11,6 +11,7 @@
 
 
 # Experimenting and gradually improving the model
+
 **Model 0**
  * using a Convulsionaal AutoEncoder
  * Loss Function: `MLELoss()`
@@ -29,7 +30,7 @@
 <img width="645" height="186" alt="training time" src="https://github.com/user-attachments/assets/14cfc8ba-3f52-4cec-b809-b5fc463c18ce" />
 
 
-**Improving Model 0**
+# **Improving Model 0**
  * changing from `MLELoss()` to `SmoothL1Loss()`
  * adding Data Augmentation using `transforms`
  * training the model for longer
@@ -38,7 +39,7 @@
 <img width="635" height="322" alt="improvments" src="https://github.com/user-attachments/assets/1b403a3e-0ff0-4c02-a50c-19af2e1c87fe" />
 
 
-**Sobel Filter for Edge Detection**
+# **Sobel Filter for Edge Detection**
  * since we are working with pixel art characters, edge detection worked great for the model
 
 
