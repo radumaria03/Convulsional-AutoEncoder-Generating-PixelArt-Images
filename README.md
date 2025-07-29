@@ -23,7 +23,7 @@
 
 **50 Epochs Results**
 
-<img width="500" height="311" alt="5epochs" src="https://github.com/user-attachments/assets/f28b1688-687e-4fb6-a995-7881f95200c8" />
+<img width="515" height="637" alt="50eochs" src="https://github.com/user-attachments/assets/f924cf26-248d-4f84-9fea-08720a517ddc" />
 
 **Training Time** (Google Colab Free Plan)
 
